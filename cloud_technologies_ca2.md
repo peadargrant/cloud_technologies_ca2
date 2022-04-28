@@ -13,8 +13,9 @@ For the portions that can be deployed, you will design the system in CloudFormat
 
 ## System description (10%)
 
-A description of your system as-is in `description.pdf`.
+A description of your system as-is in `description.txt`.
 This may be taken from an interim report or project proposal.
+3-5 key bullet points work.
 
 ## Plan for the cloud (20%)
 
